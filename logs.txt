@@ -1,0 +1,29 @@
+commit 44decd56bd4466ecdf48bce9c79ed07789a5fd73
+Author: eduardo <culichi_43@hotmail.es>
+Date:   Thu Jun 23 11:45:54 2016 -0600
+
+    5ta subida...una mas
+
+commit 90c60752934cb310d412e22f0ba4d82e1b5568ef
+Author: eduardo <culichi_43@hotmail.es>
+Date:   Thu Jun 23 11:42:51 2016 -0600
+
+    contenido
+
+commit 6244c09b96adfdfb7ecea7f98701dd5d6c2e5777
+Author: eduardo <culichi_43@hotmail.es>
+Date:   Thu Jun 23 11:18:13 2016 -0600
+
+    integracion de boostrap
+
+commit 708d1723f647a7e4bc277917a9f52e695f877ffc
+Author: eduardo <culichi_43@hotmail.es>
+Date:   Thu Jun 23 11:13:47 2016 -0600
+
+    listo
+
+commit 74ddb1bd2275fb4b762807a97e949c9f7530df28
+Author: eduardo <culichi_43@hotmail.es>
+Date:   Thu Jun 23 11:05:46 2016 -0600
+
+    estructura base de proyecto
